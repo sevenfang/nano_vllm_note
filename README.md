@@ -896,3 +896,7 @@ class Qwen3MLP(nn.Module):
         x = self.down_proj(x)
         return x
 ```
+
+
+## 参考
+https://mp.weixin.qq.com/s/6mAZ49iP1SCKt5ZdWf6ErQ
